@@ -1,17 +1,19 @@
 ### 👋 Hi, I'm Daria Drewa
-
-
 - 🎓 I'm currently studying Python at WSB Merito University.
 - 🌱 I’m learning SQL.
 - 🔭 I'm also interested in developing web applications in Django.
 - 💼 I'm currently working in a Calibration Laboratory.
 
-OS:
-![image]({https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black})
-![image]({https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white})
+### 💻 OS:
+<div align="left">
+  <ul>
+    <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="25" alt="linux logo" /</li>
+    <img width="12" />
+    <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="25" alt="windows8 logo" /></li>
+  </ul>
+</div>
 
-
-My hobbies include:
+### ✨ My hobbies include:
 - 📖 reading books (mainly crime and horror stories),
 - 💃 Kashubian folklore,
 - 🖍️ painting on a graphic tablet.
