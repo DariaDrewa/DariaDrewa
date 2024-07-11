@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Daria Drewa
-- 🎓 I'm currently studying Python at WSB Merito University.
+- 🎓 I graduated with honors in Python Developer at WSB Merito University.
 - 🌱 I’m learning SQL.
 - 🔭 I'm interested in Data Science and developing web applications in Django.
 - 💼 I'm currently working in a Calibration Laboratory.
